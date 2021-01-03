@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("First go tutorial")
+	fmt.Println("First go tutorial.")
 }
