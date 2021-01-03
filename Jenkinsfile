@@ -1,7 +1,7 @@
 pipeline{
     agent any
     tools {
-        go 'go1.15.6'
+        go 'Go 1.15.6'
     }
 
     environment {
